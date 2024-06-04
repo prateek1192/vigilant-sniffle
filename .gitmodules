@@ -1,3 +1,6 @@
 [submodule "conf"]
 	path = conf
 	url = git@github.com:grafana/grafana.git
+[submodule "grafana_repo"]
+	path = grafana_repo
+	url = git@github.com:grafana/grafana.git
